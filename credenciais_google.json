@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "whatsapp-drive-bot-454002",
+  "private_key_id": "244cfb06268df939ec60ccc9483cc0795b651571",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjjLmeh98BbZEk\ntmE4unD3wSL2dLEjcayDFElapN2PhYyDOASN6kD6irYpBNuKIGmkt3pNUKjli8Ib\nd3RsxwpdYCQJAUbBIrYPqmBm4IBm1JaQ/1jlKsLp0Pkz4OSd/zXE4C9jMinf52eL\ni1SsQXNwL8ycdUasALeMfs+yDcf5lbzO3/PA6IgtWRVSqslG8wJw+q0eD91LbZjD\nd29VATonGptWEteIWTSlCt+8xzT7DVsiNTDG2EkJXML8P5TOM3o2D08tmUjLhyTE\n06uqQzxLy1+2yFUQHvP3Ui83TBvUTNjtsb6r2clKvtsm7WkPt2Xg8NC33WMRo6i1\nq7E6sTCHAgMBAAECggEAUouUMlwbm8sBYg3/CrMnk9iuNDV0pOTxrcNIMOepsAzE\nQj2p+UlHNRvopMysT1keubANX8qo2kxup8QXqfYyXlkn+VRLNHjBDsHBotBCBAuO\nax8WQlvWxTcXj6g/hskz2i1xQ0zJP/4T490xZCOCGupcEU3By1efPgoqke7J4lGu\nQ7EiiJeJOTb8jX3t62TsdRcKXxxFR5q6jKti7eYL6rsRCeQNUkzsA4WRhisEOmyZ\nxd0yOWPVzYrX8CmBYV65D0P085EhXsgcFiarrd9OfqqOPVXWdgSTq0uX4GLBP4ZU\npH2GxcsoXKLp4keA9fN8mRk96yftVd/aPn6w6fCawQKBgQDz98b4xz0zMfsAr55j\nZURENBlZ0JK7PLAZA9AUyx61+ukffPOtLv21t2LxgRUYm4rXvwbpdGpZLREj0nib\nler9NgFmvgi7IuYYHaxu6uJa/jfn+qBv9kQKQPTYj3QttNX6v0nlXSAv8CKkfRYk\nlbTjMdZvXSUs+P3YuFtjsifD9wKBgQDuxajnZuDUZzJX3hhmYloWD+AEepQbnp9/\nXhL+3fONqWTOjt/8pUUHvhvTqRJqiKKJC+Jn5lxJOHwP5N4bthib3JLIlsf0qr7I\nDrvhqlk7FmOgT2tInvr2SnR6K0AKLnVAOff/hRq/MfUx+i1gi0bnQF2w+Bt3T1Ct\nyVC9baSz8QKBgQDieqdcdWEr8H8J4P5RWUXpZtAN36EHbkwvvKljVDibSWU21QFF\nSTU/hxG0DleuM17N78kT2f2L8VlS/uT10lOGYqckYM+sIbamto1HnocpX4w4ryJX\nLa92MVza2TlJ4PEvyHpqEWx69BrExlZS+iMlMjPVyAtl13OXx3UXdOCTewKBgQCQ\nW/LljN6rrITUeRPZeucqZYi0TIQVOs8Fy5PCgeCJqnunItyrPCTDLJ5YVuUqgdd6\n8jN9S9pJ7pubZG0g5fR072PTYM4dz8mu3LGdG0f9oGi1eK7NZkkm9Rb88f8y6Km9\nHg8hbpEgPY0YHUCoGSzSDalXoHnCpbKKj6eAD7U/kQKBgGa6iaEFtlJgoRONjvDE\nd71Q6KdJY5R3UCclilgIGWG+jpcj/fgOCfDiPs4s1GufMj1/KubM94umV8edJ4v3\nKtD/F80HWDfM2WAx9918zMQXgPWxWA+sy6aBFOFiM5M2oyDL9yaYEnQ0kS8dm8/R\nAAVfD9aLoMDRFZK0PtCZ9jQ+\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatsapp-drive-bot@whatsapp-drive-bot-454002.iam.gserviceaccount.com",
+  "client_id": "118250558252804302435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatsapp-drive-bot%40whatsapp-drive-bot-454002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
